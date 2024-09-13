@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893035169369",
+    "project_id": "localartistapp",
+    "storage_bucket": "localartistapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893035169369:android:cccb9cb731eb9f37b3d348",
+        "android_client_info": {
+          "package_name": "com.example.localartistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzMpZrB90UAUKwNpTqzEO6tuJ_mGP3nA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
